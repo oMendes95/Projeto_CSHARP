@@ -1,0 +1,16 @@
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Program Files\Git\Projetos\HelloWorld1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
